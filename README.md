@@ -3,7 +3,7 @@
 Full-stack web developer **AND** Linux server admin
 
 [<img src="https://img.shields.io/badge/-Gmail-red">](mailto:sirj3x@gmail.com)
-[<img src="https://img.shields.io/badge/-Telegram-blue">](https://t.me/sirj3x)
+[<img src="https://img.shields.io/badge/-Telegram-blue">](https://sirj3x.t.me)
 [<img src="https://img.shields.io/badge/-Instagram-inactive">](https://www.instagram.com/sirj3x)
 
 
