@@ -1,6 +1,6 @@
-### Hi 👋, I'm <a href="https://sirj3x.xyz">Mehdi Hashemi</a>
+### Hi 👋, I'm **Mehdi Hashemi**
 
-Full-stack web developer **AND** Linux server admin
+Full-Stack Web Developer | Linux Server Administration Expert
 
 [<img src="https://img.shields.io/badge/-Gmail-red">](mailto:sirj3x@gmail.com)
 [<img src="https://img.shields.io/badge/-Telegram-blue">](https://sirj3x.t.me)
